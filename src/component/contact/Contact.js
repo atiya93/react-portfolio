@@ -14,7 +14,7 @@ const Contact = () => {
             <AiOutlineMail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>atiya93hassan@gmail.com</h5>
-            <a href='#'>Send a Message</a>
+            <a href='/'>Send a Message</a>
           </article>
           <article className='contact__option'>
             <RiMessengerLine className='contact__option-icon'/>
